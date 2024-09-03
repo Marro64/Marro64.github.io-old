@@ -11,7 +11,7 @@
 - name: github
   url: https://github.com/Marro64
   icon: mdi:github
-  color: '#ffffff'
+  color: '#bfbfbf'
 
 - name: discord
   url: https://discord.com/users/295100414771068928
