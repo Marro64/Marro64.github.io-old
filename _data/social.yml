@@ -10,12 +10,12 @@
 
 - name: github
   url: https://github.com/Marro64
-  icon: skill-icons:github-dark
+  icon: mdi:github
   color: '#ffffff'
 
 - name: discord
   url: https://discord.com/users/295100414771068928
-  icon: logos:discord-icon
+  icon: ic:baseline-discord
   color: '#5865f2'
 
 - name: twitter
