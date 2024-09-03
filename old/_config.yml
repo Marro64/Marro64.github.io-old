@@ -19,6 +19,8 @@ image:
   height: 100 # Pixels
   width: 100
   alt: logo
+url: marro.dev
+baseurl: /old/
 
 # Verified Badge Configuration
 # badge:
